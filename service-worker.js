@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/anwr-draft-eis-visualization/precache-manifest.7c84eb63f3d80898a8e1191427300582.js"
+  "/anwr-draft-eis-visualization/precache-manifest.e6485d5df95d2db8daa9ed5795ced9bc.js"
 );
 
 workbox.clientsClaim();
